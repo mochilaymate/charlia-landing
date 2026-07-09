@@ -263,7 +263,7 @@ export default function Home() {
               </p>
             </div>
           </div>
-          <div className="border-t" style={{borderColor: BORDER_COLOR}} className="pt-8 text-center text-gray-400 text-sm">
+          <div className="border-t pt-8 text-center text-gray-400 text-sm" style={{borderColor: BORDER_COLOR}}>
             <p>© 2026 Charlia Agency. Todos los derechos reservados.</p>
           </div>
         </div>
