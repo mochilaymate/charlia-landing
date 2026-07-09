@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "forja-landing": {
+      "source": "Carlos-Dominguez-faber/forja-landing",
+      "sourceType": "github",
+      "version": "0.6.0"
+    }
+  }
+}
